@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style1.css" type="text/css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+
+<body>
+
+
+    <div class="card">
+        <i class="material-icons">	&#xe913;</i>
+        <h2 class="h2">Tirunelveli</h2>
+        <i class='fab fa-cc-visa' style='font-size:48px;color:red'></i>
+        <img class="img" src="./Tirunelveli railway img.jpeg" />
+        <p class="p">ABOUT DISTRICT
+            Tirunelveli also known as Nellai and historically as Tinnevelly, is a major district in the Indian state of
+            Tamil Nadu. Tirunelveli city is the administrative headquarters of the <span>Tirunelveli District</span>.
+            Tirunelveli
+            Municipal Corporation is the sixth-largest municipal corporation in the state of Tamil Nadu</p>
+    </div>
+    <div class="card"> <i class="material-icons">	&#xe561;</i>
+        <h3 class="h3">Halwa</h3>
+        <img class="img" src="./tirunelveli-halwa.jpg" />
+        <p class="p">
+            Tirunelveli halwa is known for its unique texture and flavor. The dish is very popular in Tamil Nadu and is
+            often served at weddings and other special occasions. The health benefits of Tirunelveli halwa are numerous.
+            The dish is rich in vitamins and minerals, and it is also a good source of fiber.</p>
+    </div>
+    <div class="card"><i class="material-icons">&#xeb48;</i>
+        <h3>Courtallam</h3><img class="img" src="./Courtallam_Falls.jpg" />
+        <p class="p">The panchayat town of Tirunelveli district is home to the beautiful Courtallam Waterfalls. The
+            waterfall's
+            520-foot drop means you can take in its full majesty. The large, pleasant hills and verdant landscape will
+            capture your attention.</p>
+    </div>
+    <div class="card"><i class="material-icons">&#xe8b4;</i>
+        <h3>Agasthiyar Falls</h3><img class="img" src="./Tirunelveli_agasthiyar Falls.jpg" />
+        <p class="p">
+            Anyone who bathes in the waters of Agasthiyar Falls, a beautiful cascade, is said to be cleansed of their
+            sins. Just 42 kilometres from Tirunelveli, on the Tamiraparani River, lies the stunning Agasthiyar Falls.
+        </p>
+    </div>
+    <div class="card"><i class="material-icons">&#xe564;</i>
+        <h3>Papanasam Dam</h3><img class="img" src="./papanasam Dam.JPG 3.jpg" />
+        <p class="p">
+            Papanasam, a little village, is one of the most visited places in Tirunelveli due to its peaceful atmosphere
+            and beautiful sights. Located 37 kilometres from Tirunelveli, Papanasam is most well-known as the site of
+            the Papanasam Temple, dedicated to a deity widely believed to be an avatar of Lord Shiva.</p>
+    </div>
+    <div class="card"><i class="material-icons">&#xe32a;</i>
+        <p>
+        <h3>Kalakkadu</h3><img class="img" src="./kalakad.JPG" />
+        <p class="p">Tirunelveli's Kalakkadu Wildlife Sanctuary is a popular tourist destination
+            since it's one of the few spots
+            in all of South India where tigers are safely protected from poachers. Besides the lion-tailed macaque,
+            Nilgiri langur, Nilgiri tahr, sambar, panther, wild dog, and pangolin will all make appearances for your
+            viewing pleasure</p>
+    </div>
+    <div class="card">
+        <i class="material-icons">&#xe6e1;</i>
+        <h3>Manjolai</h3><img class="img" src="./majolai.jpg" />
+        <p class="p">Beautiful Manjolai can be found in the Kalakad Mundanthurai Tiger ReserveManjolai is a small hill
+            station
+            situated at an altitude of 1162 m in Tirunelveli district of Tamilnadu. It is located at a distance of 23 km
+            from Manimuthar and 63 from Tirunelveli..</p>
+    </div>
+    <div class="card"><i class="material-icons">&#xeb4c;</i>
+        <h3>Sengottai</h3><img class="img" src="./sengokottai.webp" />
+        <p class="p">Sengottai, after the town's entry fort, is worth seeing. Sengottai independence activist
+            Vanchinathan shot
+            the then-Collector Robert William dêEscourt Ashe and then killed himself rather than face imprisonment. As a
+            result, the area places a high value on the site's historical significance.</p>
+    </div>
+
+
+</body>
+
+</html>
